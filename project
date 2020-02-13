@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>JAUS</name>
+	<comment>Just Another Useful Script</comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>Create Directory, Move Files</name>
+			<arguments><mkdir dir="%SystemDrive%\Users\{username}\WWW\">
+      <move "C:\Users\blake\Documents\pics\*.jpg C:\Users\blake\WWW">
+      <move "C:\Users\blake\Documents\pics\*.png C:\Users\blake\WWW">
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature></nature>
+	</natures>
+</projectDescription>
