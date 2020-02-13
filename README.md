@@ -8,3 +8,4 @@ I am also brand new to BSD but have been extremely interested in things of this 
 Look forward to working with you all and enjoying my time learning and growing as a coder and sysop.  <br /><br />
 git add .
 git commit -m "Figured Out How To Correctly Commit This README.md"
+/newline
